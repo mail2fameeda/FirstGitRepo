@@ -1,8 +1,13 @@
 package com.crm.module.testcases;
 
-public class SampleTestcase {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) 
+public class SampleTestcase {
+	
+	
+	@Test
+  public void login()
+	
 	{
 		System.out.println("Hi");
 
