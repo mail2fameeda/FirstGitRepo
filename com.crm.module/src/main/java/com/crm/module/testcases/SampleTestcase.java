@@ -9,7 +9,7 @@ public class SampleTestcase {
   public void login()
 	
 	{
-		System.out.println("Hi");
+		System.out.println("Update");
 
 	}
 
