@@ -12,5 +12,13 @@ public class SampleTestcase {
 		System.out.println("learning");
 
 	}
+	
+	@Test
+	  public void Hello()
+		
+		{
+			System.out.println("Hello Gitbash");
+
+		}
 
 }
